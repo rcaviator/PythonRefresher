@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonRefresher", "PythonRefresher\PythonRefresher.pyproj", "{DF810E5F-91FA-412C-95BF-665B6A0CD8F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF810E5F-91FA-412C-95BF-665B6A0CD8F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF810E5F-91FA-412C-95BF-665B6A0CD8F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {621C2375-1321-47D0-8771-A73D412D3625}
+	EndGlobalSection
+EndGlobal
